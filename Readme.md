@@ -6,7 +6,7 @@ Software Developer with over 22 years of experience in designing, developing, an
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [rodrigoraraujo@gmail.com](mailto:rodrigoraraujo@gmail.com)
-* 🧠  I'm learning Dedicated to continuous learning, I aim to build upon my knowledge of AI, with a focus on integrating intelligent features into applications to deliver even greater functionality and user engagement.
+* 🧠  Dedicated to continuous learning, I aim to build upon my knowledge of AI, with a focus on integrating intelligent features into applications to deliver even greater functionality and user engagement.
 
 ### Skills
 
